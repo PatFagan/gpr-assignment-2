@@ -1,0 +1,2 @@
+C:\Repos\gpr-assignment-2\assignment2\Intermediate\Build\Win64\UE4Editor\Development\assignment2\Definitions.assignment2.h
+C:\Repos\gpr-assignment-2\assignment2\Source\assignment2\assignment2.h

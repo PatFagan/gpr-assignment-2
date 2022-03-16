@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "assignment2",
+			"Path": "C:\\Repos\\gpr-assignment-2\\assignment2\\Source\\assignment2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "assignment2Editor",
+			"Path": "C:\\Repos\\gpr-assignment-2\\assignment2\\Source\\assignment2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
