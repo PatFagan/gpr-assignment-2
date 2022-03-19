@@ -1926,3 +1926,1004 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.19-21.34.04:792][669]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.19-21.34.04:792][669]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2022.03.19-21.34.04:792][669]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-21.34.18:627][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.00:818][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.01:321][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.01:825][920]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.02:328][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.02:832][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.35.03:305][923]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.38.39:364][259]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.39:866][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.40:368][261]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.40:869][262]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.38.41:371][262]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.41:502][263]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.38.42:625][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.43:136][266]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.43:656][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.44:157][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.44:854][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.44:854][270]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.38.45:356][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.45:859][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.46:361][273]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.46:864][274]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.47:367][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.47:868][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.48:371][277]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.48:873][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.49:376][279]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.49:754][280]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.38.57:565][555]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.58:383][555]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.38.58:892][556]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.47:502][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.48:700][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.49:203][ 73]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.49:708][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.50:210][ 75]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.39.50:712][ 75]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.51:115][ 76]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.39.51:617][ 76]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.52:121][ 77]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.52:625][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.53:125][ 79]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.39.53:628][ 79]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.54:130][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.39.54:632][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.55:133][ 81]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.39.55:133][ 81]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.39.55:594][ 81]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.39.56:824][ 89]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.57:328][ 90]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.57:833][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.58:334][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.39.58:836][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.39.58:967][ 93]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.11:127][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.11:630][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.12:134][659]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.12:633][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.13:136][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.13:215][661]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.13:718][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.14:221][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.14:751][663]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.15:253][664]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.16:219][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.16:219][665]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.16:722][666]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.17:223][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.17:725][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.18:227][668]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.19:699][677]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.21:510][689]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.22:012][690]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.22:515][691]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.23:048][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.23:048][692]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.23:551][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.24:316][694]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.24:817][695]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.38:438][434]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.38:941][435]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.39:444][436]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.39:946][437]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.40:927][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.41:326][439]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.42:158][440]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.42:660][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.43:163][442]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.43:665][443]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.44:460][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.44:960][445]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.44:960][445]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.45:462][445]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.45:963][446]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.46:466][446]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.46:967][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.47:469][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.47:970][448]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.40.48:472][448]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.49:418][449]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.49:419][449]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.40.57:493][856]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.57:995][857]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.58:498][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.59:000][859]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.40.59:503][860]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.00:005][861]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.00:508][862]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.01:007][862]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.01:509][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.01:509][863]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.41.02:010][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.02:969][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.03:471][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.03:972][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.04:474][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.05:199][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.05:199][867]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.41.05:701][868]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.06:444][869]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.06:946][870]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.07:446][870]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.07:946][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.08:449][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.08:949][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.41.09:451][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.09:886][873]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.41.11:122][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.12:891][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.13:394][891]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.49:481][887]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.49:984][888]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.50:486][889]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.50:989][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.51:735][893]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.52:936][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.53:439][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.54:345][904]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.41.54:847][905]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.12:364][841]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.12:867][842]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.13:369][843]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.13:997][844]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.14:499][845]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.42.14:499][845]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.42.14:999][845]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.15:501][846]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.42.16:002][846]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.16:185][847]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.42.17:397][854]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.17:899][855]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.18:402][856]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.18:905][857]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.19:407][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.19:909][859]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.20:868][860]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.20:869][860]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.42.21:371][861]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.21:873][862]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.22:376][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.22:879][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.23:381][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.24:334][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.24:835][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.42.24:835][867]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.42.25:337][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.47:042][101]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.47:544][102]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.48:047][103]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.48:548][104]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.42.49:048][104]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.49:206][105]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.42.50:703][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.51:206][109]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.51:709][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.52:211][111]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.52:715][112]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.42.53:215][112]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.42.53:588][113]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.43.37:621][632]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.38:123][633]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.38:626][634]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.39:100][635]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.43.39:726][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.40:229][639]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.58:162][593]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.43.58:666][594]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.04:647][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.19-21.44.04:697][898]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap_Auto1878ABB2D4823AEDF8C87279DB2F1581A.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2022.03.19-21.44.04:699][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.092
+[2022.03.19-21.44.04:699][898]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.03.19-21.44.04:699][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Grass/ParticleEffect/grass-particle] ([1] browsable assets)...
+[2022.03.19-21.44.04:730][898]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Grass/ParticleEffect/grass-particle.grass-particle]
+[2022.03.19-21.44.04:730][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grass/ParticleEffect/grass-particle]
+[2022.03.19-21.44.04:739][898]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/grass-particle_Auto179C6FE124EF0EAE897B3A0AD8EC81485.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/Autosaves/Game/Grass/ParticleEffect/grass-particle_Auto1.uasset'
+[2022.03.19-21.44.04:741][898]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.03.19-21.44.28:640][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.29:142][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.29:644][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.30:175][271]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.44.30:677][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.31:179][273]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.31:682][274]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.32:185][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.32:688][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.33:359][277]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.33:861][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.44.33:861][278]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.44.34:362][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.34:863][279]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.44.35:365][279]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.35:830][280]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.44.36:331][280]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.37:866][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.38:369][285]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.38:872][286]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.39:374][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.39:875][288]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.44.40:279][288]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.44.40:782][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.41:824][292]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.44.42:326][293]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.17:699][356]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.18:201][357]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.18:705][358]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.19:426][359]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.19:426][359]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.45.19:929][360]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.20:429][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.45.20:931][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.21:867][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.23:493][371]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.34:964][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.35:467][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.35:969][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.36:470][952]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.45.36:972][952]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.45.37:473][953]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.45.37:473][953]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.45.37:885][953]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.45.59:947][200]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.00:449][201]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.00:952][202]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.01:454][203]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.01:957][204]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.02:457][205]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.02:960][205]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.03:460][206]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.03:460][206]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.46.04:903][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.51:385][877]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.51:888][878]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.52:390][879]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.52:893][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.53:394][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.53:896][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.54:397][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.54:397][882]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.46.54:898][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.55:751][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.56:252][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.56:754][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.57:414][885]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.57:914][886]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.58:416][886]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.58:918][887]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.46.58:918][887]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.46.59:419][887]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.46.59:922][888]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.25:940][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.26:443][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.26:946][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.27:447][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.48.27:948][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.28:449][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.48.28:449][867]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.48.28:951][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.29:101][868]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.48.30:987][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.31:487][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.32:297][877]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.59:338][246]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.48.59:840][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.00:344][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.00:845][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.49.01:347][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.01:488][250]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.49.03:001][257]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.03:503][258]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.04:007][259]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.04:508][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.49.05:010][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.05:510][261]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.49.05:510][261]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.49.06:629][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.07:909][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.09:168][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.09:670][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.54:648][458]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.55:151][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.55:653][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.56:156][461]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.56:657][462]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.49.57:158][462]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.57:158][462]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.49.57:661][463]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.58:182][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.58:684][465]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.59:187][466]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.49.59:689][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.00:190][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.00:692][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.00:923][469]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.50.01:425][469]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.01:927][470]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.02:430][471]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.03:336][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.03:839][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.04:341][474]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.04:844][475]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.05:345][476]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.05:846][476]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.05:846][476]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.50.06:349][477]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.06:851][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.07:351][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.07:853][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.08:353][480]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.08:855][480]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.40:574][575]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.41:075][576]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.41:758][578]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.42:261][579]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.42:763][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.43:265][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.43:767][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.44:407][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.44:536][584]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.50.45:038][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.45:540][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.46:041][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.46:542][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.47:043][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.47:975][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.48:477][588]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.49:424][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.49:925][590]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.49:925][590]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.50.50:426][590]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.50:927][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.50.51:429][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.50.51:926][592]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.52.03:528][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.52.37:065][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.52.38:404][ 32]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.52.39:737][ 36]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.52.40:240][ 37]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.06:672][116]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.07:174][117]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.07:678][118]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.08:178][119]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.53.08:680][119]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.08:680][119]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.53.09:184][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.10:174][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.10:677][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.11:180][123]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.11:680][124]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.53.12:182][124]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.12:683][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.53.12:683][125]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.53.13:185][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.13:686][126]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.53.13:686][126]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.53.14:958][126]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.14:958][126]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.53.15:864][129]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.57:073][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.53.57:572][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.04:974][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.19-21.54.05:021][513]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap_Auto29224941449FEF548EB76F48AF52F3B99.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2022.03.19-21.54.05:023][513]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.098
+[2022.03.19-21.54.05:023][513]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2022.03.19-21.54.29:183][847]LogEditorViewport: Clicking on Actor (LMB): grass-uv_Blueprint_C (grass-uv_Blueprint)
+[2022.03.19-21.54.31:649][989]Cmd: DELETE
+[2022.03.19-21.54.31:649][989]Cmd: ACTOR DELETE
+[2022.03.19-21.54.31:655][989]LogEditorActor: Deleted Actor: grass-uv_Blueprint_C
+[2022.03.19-21.54.31:704][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.19-21.54.31:709][989]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.03.19-21.54.33:706][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grass/grass-uv_Blueprint.grass-uv_Blueprint
+[2022.03.19-21.54.38:458][307]LogProperty: Warning: Illegal TEXT reference to a private object in external package (grass-uv_Blueprint_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.grass-uv_Blueprint_3) from referencer (K2Node_Literal /Game/Grass/grass-uv_Blueprint.grass-uv_Blueprint:EventGraph.K2Node_Literal_4).  Import failed...
+[2022.03.19-21.54.38:458][307]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'grass-uv_Blueprint_C'"/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.grass-uv_Blueprint_3"''
+[2022.03.19-21.54.38:459][307]LogProperty: Warning: Illegal TEXT reference to a private object in external package (grass-uv_Blueprint_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.grass-uv_Blueprint_3) from referencer (K2Node_ActorBoundEvent /Game/Grass/grass-uv_Blueprint.grass-uv_Blueprint:EventGraph.K2Node_ActorBoundEvent_0).  Import failed...
+[2022.03.19-21.54.38:459][307]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'grass-uv_Blueprint_C'"/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.grass-uv_Blueprint_3"''
+[2022.03.19-21.54.40:227][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.40:730][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.41:859][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.42:361][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.42:865][320]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.43:366][321]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.54.43:879][321]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.44:379][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.54.44:379][322]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.54.44:881][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.46:023][325]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.46:537][326]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.47:039][327]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.47:751][328]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.54.48:573][332]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.49:076][333]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.49:578][334]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.50:081][335]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.50:584][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.51:085][337]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.51:087][337]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.03.19-21.54.51:589][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.52:090][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.19-21.54.52:591][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.54:325][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.54.56:004][371]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-21.55.01:146][638]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2022.03.19-21.56.30:382][835]LogEditorViewport: Clicking Background
+[2022.03.19-21.56.31:351][893]LogEditorViewport: Clicking on Actor (LMB): grass-uv_Blueprint_C (grass-uv_Blueprint)
+[2022.03.19-21.57.52:065][648]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2022.03.19-21.58.07:128][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grass/grass-uv_Blueprint" FILE="../../../../../../Repos/gpr-assignment-2/assignment2/Content/Grass/grass-uv_Blueprint.uasset" SILENT=true
+[2022.03.19-21.58.07:140][401]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/grass-uv_Blueprint28FEF3434C10E077A98C58AAF96345DB.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/Grass/grass-uv_Blueprint.uasset'
+[2022.03.19-21.58.07:155][401]AssetCheck: New page: Asset Save: grass-uv_Blueprint
+[2022.03.19-21.58.07:155][401]LogContentValidation: Display: Validating Blueprint /Game/Grass/grass-uv_Blueprint.grass-uv_Blueprint
+[2022.03.19-21.58.08:738][493]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-21.58.08:738][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.04.05:276][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.03.19-22.04.05:313][749]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap_Auto3697FEE70433E7390A88FAA9AE36431A1.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2022.03.19-22.04.05:314][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.075
+[2022.03.19-22.04.05:314][749]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.03.19-22.07.48:092][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.19-22.07.48:122][678]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap7C676FDC424572C33066E9A6B0892FB0.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.07.48:134][678]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.073
+[2022.03.19-22.07.48:148][678]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.07.48:148][678]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.07.52:158][907]LogEditorViewport: Clicking on Actor (LMB): grass-uv_Blueprint_C (grass-uv_Blueprint)
+[2022.03.19-22.07.53:465][983]Cmd: EDIT COPY
+[2022.03.19-22.07.53:714][998]Cmd: EDIT PASTE
+[2022.03.19-22.07.59:628][341]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.07.59:640][341]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.19-22.07.59:640][341]LogPlayLevel: [PlayLevel] Compiling grass-uv_Blueprint before play...
+[2022.03.19-22.07.59:725][341]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2022.03.19-22.07.59:824][341]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2022.03.19-22.07.59:828][341]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (2 blueprints)
+[2022.03.19-22.07.59:829][341]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:07:59 PM)
+[2022.03.19-22.07.59:829][341]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.07.59:854][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025070s)
+[2022.03.19-22.07.59:856][341]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.07.59:857][341]LogPlayLevel: PIE: World Init took: (0.002705s)
+[2022.03.19-22.07.59:857][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028141s)
+[2022.03.19-22.07.59:931][341]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2022.03.19-22.07.59:934][341]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.19-22.07.59:934][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.07.59:934][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.07.59:935][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.07.59:935][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.07.59:935][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.07.59:935][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.07.59:935][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.07.59:935][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.07.59:936][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.07.59:936][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.07.59:936][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.07.59:936][341]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.07.59:949][341]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.07.59:949][341]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.07.59:969][341]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.07.59:970][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.07.59:970][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.07.59:970][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.07.59:971][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.07.59:971][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.07.59:971][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.07.59:974][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.07.59:974][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.07.59:974][341]LogInit: FAudioDevice initialized.
+[2022.03.19-22.07.59:974][341]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.07.59:990][341]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.07.59:998][341]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.07.59
+[2022.03.19-22.07.59:999][341]LogWorld: Bringing up level for play took: 0.005274
+[2022.03.19-22.07.59:999][341]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.19-22.08.00:005][341]PIE: Server logged in
+[2022.03.19-22.08.00:007][341]PIE: Play in editor total start time 0.37 seconds.
+[2022.03.19-22.08.06:914][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.08.06:914][730]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.08.06:914][730]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.08.06:915][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.08.06:926][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.08.06:955][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.08.06:989][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.08.06:990][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.08.06:991][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.08.07:000][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.03.19-22.08.07:048][731]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.19-22.08.09:207][845]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.08.09:215][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-22.08.09:215][845]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:08:09 PM)
+[2022.03.19-22.08.09:216][845]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.08.09:229][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013329s)
+[2022.03.19-22.08.09:230][845]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.08.09:231][845]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2022.03.19-22.08.09:231][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015050s)
+[2022.03.19-22.08.09:268][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.03.19-22.08.09:269][845]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.08.09:269][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.08.09:270][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.08.09:270][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.08.09:270][845]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.08.09:270][845]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.08.09:270][845]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.08.09:270][845]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.08.09:275][845]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.08.09:275][845]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.08.09:283][845]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.08.09:283][845]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.08.09:285][845]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.08.09:285][845]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.08.09:285][845]LogInit: FAudioDevice initialized.
+[2022.03.19-22.08.09:285][845]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.08.09:293][845]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.08.09:296][845]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.08.09
+[2022.03.19-22.08.09:296][845]LogWorld: Bringing up level for play took: 0.002150
+[2022.03.19-22.08.09:296][845]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.19-22.08.09:299][845]PIE: Server logged in
+[2022.03.19-22.08.09:300][845]PIE: Play in editor total start time 0.085 seconds.
+[2022.03.19-22.08.15:414][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.08.15:414][205]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.08.15:414][205]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.08.15:415][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.08.15:421][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.08.15:441][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.08.15:469][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-22.08.15:469][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.08.15:470][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.08.15:472][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.08.15:478][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.03.19-22.08.15:526][206]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.19-22.10.02:384][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.03.19-22.10.02:427][460]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMapABB060D0481450EF0B92EFA89CBC68B9.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.10.02:444][460]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.099
+[2022.03.19-22.10.02:462][460]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.10.02:462][460]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.10.04:996][609]LogCascade: Quitting Cascade. FXSystem=0x000002086225E440
+[2022.03.19-22.10.05:000][609]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.10.05:000][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.10.10:868][949]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.10.10:877][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-22.10.10:877][949]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:10:10 PM)
+[2022.03.19-22.10.10:877][949]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.10.10:898][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021009s)
+[2022.03.19-22.10.10:900][949]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.10.10:901][949]LogPlayLevel: PIE: World Init took: (0.002077s)
+[2022.03.19-22.10.10:901][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023328s)
+[2022.03.19-22.10.10:953][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.03.19-22.10.10:956][949]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.19-22.10.10:956][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.10.10:956][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.10.10:956][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.10.10:956][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.10.10:957][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.10.10:957][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.10.10:957][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.10.10:957][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.10.10:957][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.10.10:957][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.10.10:957][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.10.10:957][949]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.10.10:963][949]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.10.10:964][949]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.10.10:973][949]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.10.10:973][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.10.10:973][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.10.10:973][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.10.10:974][949]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.10.10:974][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.10.10:974][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.10.10:975][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.10.10:976][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.10.10:976][949]LogInit: FAudioDevice initialized.
+[2022.03.19-22.10.10:976][949]LogAudio: Display: Audio Device (ID: 14) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.10.10:989][949]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.10.10:992][949]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.10.10
+[2022.03.19-22.10.10:993][949]LogWorld: Bringing up level for play took: 0.002703
+[2022.03.19-22.10.10:993][949]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.19-22.10.10:996][949]PIE: Server logged in
+[2022.03.19-22.10.10:997][949]PIE: Play in editor total start time 0.121 seconds.
+[2022.03.19-22.10.47:524][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.10.47:524][127]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.10.47:525][127]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.10.47:525][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.10.47:535][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.10.47:567][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.10.47:610][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.10.47:610][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.10.47:612][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.10.47:623][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.03.19-22.10.47:697][128]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.19-22.13.12:315][661]LogEditorViewport: Clicking on Actor (LMB): grass-uv_Blueprint_C (grass-uv_Blueprint)
+[2022.03.19-22.14.08:676][850]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.10:016][854]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.11:276][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.12:528][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.13:342][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.15:157][875]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.16:368][879]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.17:245][879]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.17:749][879]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.18:257][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.22:325][913]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.24:379][941]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.27:186][958]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.14.48:434][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.19-22.14.48:461][182]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMapD2B0C00F45A80C293E59489824BA7BD7.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.14.48:475][182]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.070
+[2022.03.19-22.14.48:489][182]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.14.48:489][182]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.14.52:724][428]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.14.52:732][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.19-22.14.52:733][428]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2022.03.19-22.14.52:789][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.03.19-22.14.52:790][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2022.03.19-22.14.52:790][428]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:14:52 PM)
+[2022.03.19-22.14.52:790][428]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.14.52:804][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013396s)
+[2022.03.19-22.14.52:805][428]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.14.52:805][428]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2022.03.19-22.14.52:805][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014774s)
+[2022.03.19-22.14.52:838][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.03.19-22.14.52:839][428]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.14.52:839][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.14.52:839][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.14.52:840][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.14.52:840][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.14.52:840][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.14.52:840][428]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.14.52:845][428]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.14.52:845][428]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.14.52:853][428]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.14.52:853][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.14.52:853][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.14.52:853][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.14.52:853][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.14.52:853][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.14.52:854][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.14.52:855][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.14.52:855][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.14.52:855][428]LogInit: FAudioDevice initialized.
+[2022.03.19-22.14.52:855][428]LogAudio: Display: Audio Device (ID: 15) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.14.52:861][428]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.14.52:864][428]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.14.52
+[2022.03.19-22.14.52:865][428]LogWorld: Bringing up level for play took: 0.002124
+[2022.03.19-22.14.52:865][428]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.19-22.14.52:867][428]PIE: Server logged in
+[2022.03.19-22.14.52:868][428]PIE: Play in editor total start time 0.137 seconds.
+[2022.03.19-22.14.59:084][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.14.59:084][783]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.14.59:084][783]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.14.59:084][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.14.59:097][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.14.59:117][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.14.59:146][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.14.59:146][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.14.59:147][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.14.59:154][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.19-22.14.59:205][784]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.19-22.15.19:350][949]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2022.03.19-22.15.19:415][949]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMapDA992E1D4F8C29AFC9EF0E91279468DB.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.15.19:445][949]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.150
+[2022.03.19-22.15.19:474][949]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.15.19:475][949]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.15.22:831][128]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.15.22:845][128]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.19-22.15.22:846][128]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2022.03.19-22.15.22:957][128]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.03.19-22.15.22:960][128]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2022.03.19-22.15.22:960][128]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:15:22 PM)
+[2022.03.19-22.15.22:960][128]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.15.22:985][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025399s)
+[2022.03.19-22.15.22:987][128]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.15.22:988][128]LogPlayLevel: PIE: World Init took: (0.002732s)
+[2022.03.19-22.15.22:988][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028492s)
+[2022.03.19-22.15.23:074][128]LogUObjectHash: Compacting FUObjectHashTables data took  13.52ms
+[2022.03.19-22.15.23:076][128]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.15.23:077][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.15.23:077][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.15.23:078][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.15.23:078][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.15.23:078][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.15.23:078][128]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.15.23:091][128]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.15.23:091][128]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.15.23:110][128]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.15.23:110][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.15.23:110][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.15.23:110][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.15.23:111][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.15.23:111][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.15.23:111][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.15.23:114][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.15.23:114][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.15.23:114][128]LogInit: FAudioDevice initialized.
+[2022.03.19-22.15.23:115][128]LogAudio: Display: Audio Device (ID: 16) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.15.23:129][128]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.15.23:137][128]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.15.23
+[2022.03.19-22.15.23:138][128]LogWorld: Bringing up level for play took: 0.005807
+[2022.03.19-22.15.23:138][128]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.19-22.15.23:144][128]PIE: Server logged in
+[2022.03.19-22.15.23:145][128]PIE: Play in editor total start time 0.302 seconds.
+[2022.03.19-22.15.29:175][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.15.29:175][469]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.15.29:175][469]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.15.29:176][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.15.29:186][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.15.29:218][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.15.29:261][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.15.29:262][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.15.29:263][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.15.29:274][469]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2022.03.19-22.15.29:334][470]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.19-22.16.14:037][ 97]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2022.03.19-22.16.54:093][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.19-22.16.54:119][387]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMapAE46E87B45F4AF94810D239EBFED92E4.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.16.54:131][387]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.066
+[2022.03.19-22.16.54:144][387]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.16.54:144][387]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.16.57:109][546]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.16.57:124][546]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.19-22.16.57:125][546]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2022.03.19-22.16.57:242][546]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2022.03.19-22.16.57:245][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2022.03.19-22.16.57:246][546]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:16:57 PM)
+[2022.03.19-22.16.57:246][546]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.16.57:272][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025931s)
+[2022.03.19-22.16.57:274][546]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.16.57:275][546]LogPlayLevel: PIE: World Init took: (0.003356s)
+[2022.03.19-22.16.57:276][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029709s)
+[2022.03.19-22.16.57:356][546]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2022.03.19-22.16.57:358][546]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.16.57:358][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.16.57:359][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.16.57:360][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.16.57:360][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.16.57:360][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.16.57:360][546]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.16.57:374][546]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.16.57:374][546]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.16.57:394][546]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.16.57:395][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.16.57:395][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.16.57:395][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.16.57:396][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.16.57:397][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.16.57:397][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.16.57:400][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.16.57:400][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.16.57:400][546]LogInit: FAudioDevice initialized.
+[2022.03.19-22.16.57:400][546]LogAudio: Display: Audio Device (ID: 17) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.16.57:423][546]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.16.57:433][546]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.16.57
+[2022.03.19-22.16.57:434][546]LogWorld: Bringing up level for play took: 0.008617
+[2022.03.19-22.16.57:435][546]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.19-22.16.57:442][546]PIE: Server logged in
+[2022.03.19-22.16.57:444][546]PIE: Play in editor total start time 0.322 seconds.
+[2022.03.19-22.17.13:914][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.17.13:914][504]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.17.13:915][504]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.17.13:915][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.17.13:924][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.17.13:996][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.17.14:038][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-22.17.14:038][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.17.14:040][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.17.14:044][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.17.14:051][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.03.19-22.17.14:115][505]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.19-22.17.23:601][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.03.19-22.17.23:653][ 55]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap547052D144E0EC41FA34A69F1F23ABCF.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.17.23:675][ 55]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.129
+[2022.03.19-22.17.23:700][ 55]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2022.03.19-22.17.23:700][ 55]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.17.37:083][722]LogActorFactory: Actor Factory created grass-uv
+[2022.03.19-22.17.37:918][769]LogActorFactory: Actor Factory created grass-uv
+[2022.03.19-22.18.19:950][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.18.19:963][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-22.18.19:963][ 54]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:18:19 PM)
+[2022.03.19-22.18.19:964][ 54]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.18.19:983][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019001s)
+[2022.03.19-22.18.19:985][ 54]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.18.19:985][ 54]LogPlayLevel: PIE: World Init took: (0.002181s)
+[2022.03.19-22.18.19:985][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021480s)
+[2022.03.19-22.18.20:038][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.03.19-22.18.20:047][ 54]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.18.20:048][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.18.20:048][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.18.20:049][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.18.20:049][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.18.20:049][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.18.20:049][ 54]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.18.20:057][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.18.20:057][ 54]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.18.20:068][ 54]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.18.20:068][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.18.20:068][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.18.20:068][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.18.20:069][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.18.20:069][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.18.20:069][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.18.20:071][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.18.20:071][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.18.20:071][ 54]LogInit: FAudioDevice initialized.
+[2022.03.19-22.18.20:071][ 54]LogAudio: Display: Audio Device (ID: 18) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.18.20:087][ 54]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.18.20:091][ 54]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.18.20
+[2022.03.19-22.18.20:092][ 54]LogWorld: Bringing up level for play took: 0.003288
+[2022.03.19-22.18.20:092][ 54]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.19-22.18.20:096][ 54]PIE: Server logged in
+[2022.03.19-22.18.20:097][ 54]PIE: Play in editor total start time 0.137 seconds.
+[2022.03.19-22.18.28:944][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.18.28:944][571]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.18.28:945][571]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.18.28:945][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.18.28:953][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.18.28:959][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.18.28:986][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-22.18.28:986][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.18.28:988][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.18.28:990][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.18.28:994][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.19-22.18.29:032][572]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.19-22.18.36:788][899]LogSlate: Window 'Message' being destroyed
+[2022.03.19-22.18.36:815][899]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to remove 17 instances?
+[2022.03.19-22.18.37:562][906]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.38:803][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.44:197][945]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.44:669][945]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.03.19-22.18.45:288][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.46:195][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.46:714][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.47:269][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.18.49:367][952]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.19-22.19.09:596][ 44]Cmd: EDIT COPY
+[2022.03.19-22.19.09:863][ 60]Cmd: EDIT PASTE
+[2022.03.19-22.19.16:110][432]Cmd: EDIT COPY
+[2022.03.19-22.19.16:509][456]Cmd: EDIT PASTE
+[2022.03.19-22.19.22:174][774]Cmd: EDIT COPY
+[2022.03.19-22.19.22:392][787]Cmd: EDIT PASTE
+[2022.03.19-22.19.28:450][142]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.19-22.19.28:459][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-22.19.28:459][142]PIE: New page: PIE session: TopDownExampleMap (Mar 19, 2022, 2:19:28 PM)
+[2022.03.19-22.19.28:459][142]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.19.28:477][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018066s)
+[2022.03.19-22.19.28:478][142]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.03.19-22.19.28:479][142]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2022.03.19-22.19.28:479][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019600s)
+[2022.03.19-22.19.28:517][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.03.19-22.19.28:523][142]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.19-22.19.28:523][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-22.19.28:523][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-22.19.28:524][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-22.19.28:524][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-22.19.28:524][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-22.19.28:524][142]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.19-22.19.28:528][142]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.19-22.19.28:528][142]LogAudioMixer: Display: 1: FrontRight
+[2022.03.19-22.19.28:536][142]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.19-22.19.28:536][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-22.19.28:536][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-22.19.28:536][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-22.19.28:536][142]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.19-22.19.28:537][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.19-22.19.28:537][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.19-22.19.28:538][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.19-22.19.28:538][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.19-22.19.28:538][142]LogInit: FAudioDevice initialized.
+[2022.03.19-22.19.28:538][142]LogAudio: Display: Audio Device (ID: 19) registered with world 'TopDownExampleMap'.
+[2022.03.19-22.19.28:544][142]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.03.19-22.19.28:547][142]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2022.03.19-18.19.28
+[2022.03.19-22.19.28:548][142]LogWorld: Bringing up level for play took: 0.002206
+[2022.03.19-22.19.28:548][142]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.19-22.19.28:551][142]PIE: Server logged in
+[2022.03.19-22.19.28:551][142]PIE: Play in editor total start time 0.094 seconds.
+[2022.03.19-22.19.42:423][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.19.42:423][891]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.03.19-22.19.42:423][891]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-22.19.42:424][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.19.42:430][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-22.19.42:451][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-22.19.42:480][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-22.19.42:480][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.19.42:481][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.19-22.19.42:483][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-22.19.42:488][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.19-22.19.42:522][892]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.19-22.19.45:991][ 64]MapCheck: New page: Map Check
+[2022.03.19-22.19.46:013][ 64]LightingResults: New page: Lighting Build - Mar 19, 2022, 2:19:46 PM
+[2022.03.19-22.19.46:068][ 64]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.19-22.19.46:164][ 64]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.19-22.19.46:180][ 64]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.19-22.19.46:705][ 64]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.19-22.19.46:705][ 64]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27348
+[2022.03.19-22.19.49:594][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.19-22.19.49:594][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.19-22.19.49:594][ 64]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.19-22.19.49:594][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.19-22.19.49:594][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.19-22.19.49:765][ 64]LogEditorBuildUtils: Build time 0:03
+[2022.03.19-22.19.49:775][ 64]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.19-22.19.49:776][ 64]LogShaderCompilers: Display: Total job queries 316, among them cache hits 150 (47.47%)
+[2022.03.19-22.19.49:776][ 64]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 89 distinct outputs (60.96%)
+[2022.03.19-22.19.49:776][ 64]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.03.19-22.19.49:776][ 64]LogShaderCompilers: Display: ================================================
+[2022.03.19-22.19.49:932][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.03.19-22.19.51:445][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.19-22.19.51:515][ 76]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap73DEEB054FD91D675D49FF9B3CDE6208.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.03.19-22.19.51:744][ 76]LogSavePackage: Moving '../../../../../../Repos/gpr-assignment-2/assignment2/Saved/TopDownExampleMap_BuiltData0A5342F34145BFA6B01BA3A09994BCC0.tmp' to '../../../../../../Repos/gpr-assignment-2/assignment2/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2022.03.19-22.19.51:823][ 76]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-22.19.51:823][ 76]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2022.03.19-22.19.51:823][ 76]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.03.19-22.20.01:836][189]Job is a success!
+[2022.03.19-22.20.02:470][190]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.062s
+[2022.03.19-22.20.02:471][190]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.19-22.20.02:471][190]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2022.03.19-22.20.02:471][190]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.19-22.20.02:472][190]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2022.03.19-22.20.02:472][190]LogVolumetricLightmapImport:          1: 11.4% covering 6.2% of volume
+[2022.03.19-22.20.02:472][190]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2022.03.19-22.20.02:472][190]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.19-22.20.02:472][190]LogVolumetricLightmapImport:          TopDownExampleMap 			 35 bricks 	 100.0% (Persistent Level)
+[2022.03.19-22.20.04:290][190]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.19-22.20.04:291][190]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.19-22.20.04:292][190]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.19-22.20.04:292][190]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.19-22.20.04:292][190]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.19-22.20.04:292][190]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2022.03.19-22.20.04:292][190]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2022.03.19-22.20.04:292][190]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2022.03.19-22.20.04:292][190]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.03.19-22.20.04:293][190]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.03.19-22.20.04:293][190]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2022.03.19-22.20.04:293][190]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.19-22.20.04:489][190]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.03.19-22.20.05:540][190]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2022.03.19-22.20.05:541][190]Lightmass on LAPTOP-C8J9BUK7: 14.0 sec total, 647 ms importing, 93 ms setup, 2.86 sec photons, 10.4 sec processing, 0 ms extra exporting [27/27 mappings]. Threads: 1:54 min total, 30.6 sec processing.
+[2022.03.19-22.20.05:544][190]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 27 meshes in 3 LightmapResourceClusters (9.0 Meshes per cluster).
+[2022.03.19-22.20.05:653][190]LogUObjectHash: Compacting FUObjectHashTables data took   9.54ms
+[2022.03.19-22.20.05:709][190]LogStaticLightingSystem: Illumination: 19.3 sec (684 ms encoding lightmaps, 1.15 sec encoding shadowmaps)
+[2022.03.19-22.20.05:709][190]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.03.19-22.20.05:710][190]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.19-22.20.10:613][190]DumpUnbuiltLightIteractions
+[2022.03.19-22.20.10:613][190]Lights with unbuilt interactions: 0
+[2022.03.19-22.20.10:613][190]
+[2022.03.19-22.20.10:613][190]Primitives with unbuilt interactions: 0
+[2022.03.19-22.20.10:864][190]LogTexture: Display: Building textures: NewReflectionComponentTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2022.03.19-22.20.10:975][191]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.19-22.20.10:976][191]MapCheck: New page: TopDownExampleMap - Mar 19, 2022, 2:20:10 PM
+[2022.03.19-22.20.10:977][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.726ms to complete.
